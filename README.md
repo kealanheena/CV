@@ -6,7 +6,7 @@ I'm a person, not a robot, who has work in multiple industries from hospitality 
 I liked moving around to keep things interesting which is why I was drawn to software development there's always something new, plenty to learn and more than enough chances to keep my skills sharp, there's also a large active community which makes getting help a lot easier. I've done bits and pieces in HTML, CSS, and JavaScript, I've also used a MEN(Mongo, Express and Node) stack in a project I'm still currently working on, and I'm also learning ruby at the moment.
 #####
 I've worked in a lot of different places I'm sort of a jack of all trades, and after Makers, I'll be a master of one.
- 
+ 
 ## Skills
 
 #### Organisational skills
@@ -19,7 +19,7 @@ While I was doing carpentry, mainly building roofs or joists, I would also have 
 #### Problem-Solving Skills
 While working in retail in a shop called "Dunnes Store" I was tasked with managing the crisps and sweets aisle which were the least favourite aisles among my colleges due to the flimsy nature of the packaging. Unfortunately I was stuck with these aisles during my time working there so I had to find a workaround to keep my managers happy, Obviously I could just pack the shelves out the brim but that wasn't a reliable way of solving the problem because there would be days where there was little to no stock for certain items, I noticed that they could be prompted to stay up if they were given additional support from at least another 2-3 packets which were almost always available, after being fluffed the aisle looked like a flush wall. My manager complimented me on how good it looked and keep me in these aisles because I was the best at stocking crisps.
 ##### 
-I also had to do some problem solving working in carpentry doing joists, but in  these situations I would be given a drawing to work from, I'd have to work out where stairs would go based on where the front door and back doors where and also using a bit of commonsense, stairs wouldn’t overlap a window for example, once I had that worked that I can start laying out the joists before you start nailing anything this would always give me a chance to double-check I'm right before nailing anything, because once you start nailing its a mess to undo it. 
+I also had to do some problem solving working in carpentry doing joists, but in  these situations I would be given a drawing to work from, I'd have to work out where stairs would go based on where the front door and back doors where and also using a bit of commonsense, stairs wouldn’t overlap a window for example, once I had that worked that I can start laying out the joists before you start nailing anything this would always give me a chance to double-check I'm right before nailing anything, because once you start nailing its a mess to undo it. 
 
 ## Education
 #### What is Makers Academy
@@ -30,7 +30,8 @@ Makers Academy is a sort of school that teaches a group of students (cohort) how
 ##### Skill:
 - Ruby
 - HTML, CSS
-- JavaScript, Mongo, Express, Node
+- JavaScript, Mongo, Express, Node 
+  - My current project => https://blooming-cliffs-37846.herokuapp.com/
 - RSpec
 
 #### Why no colleges
@@ -52,5 +53,5 @@ Apprentice Carpenter
 I got a chance to try something new here and to build on my organisational skills through keeping a clean and manageable workspace, problem-solving skills through facing and overcoming the new array of challenges, and communication skills through dealing with the different workers I'd be helping and getting help from.
 
 ## Hobbies
-- Jiu Jitsu - It's enjoyable keeps you fit and teaches respect which is a good attitude to have to keep you out of trouble and if that doesn't work you can use it as a last resort.
+- Jiu-Jitsu - It's enjoyable keeps you fit and teaches respect which is a good attitude to have to keep you out of trouble and if that doesn't work you can use it as a last resort.
 - Puzzle/Strategy Games - They're frustrating at time although that makes them all the more rewarding when you solve them plus it's a great thing to do with friends.
