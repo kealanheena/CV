@@ -27,11 +27,11 @@ Makers Academy is a sort of school that teaches a group of students (cohort) how
 #### Makers Academy (14/Oct/2019 to 17/Feb/2020)
 - Check out my blog here => https://dev.to/kealanheena
 - Check out what I'm working on with other members of my cohort here => https://github.com/samfolo/simple_poker
-##### Skill:
+##### Skills:
 - Ruby
 - HTML, CSS
 - JavaScript, Mongo, Express, Node 
-  - My current project => https://blooming-cliffs-37846.herokuapp.com/
+  - My current project => https://blooming-cliffs-37846.herokuapp.com/
 - RSpec
 
 #### Why no colleges
