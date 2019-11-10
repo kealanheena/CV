@@ -1,7 +1,7 @@
 # Curriculum Vitae
-
+| [About Me](#kealan-heena) | [Skills](#skills)  |  [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) |
 ## Kealan Heena
-I'm a person, not a robot, who has work in multiple industries from hospitality to retail and more recently construction, I've done everything from cleaning fish gut off the floor to hitting my hand with a hammer on accident obviously, and I'm now looking to the future and becoming a full-stack Ruby developer. I'm a visual thinker and right now I'm seeing the world as a game of Pac-Man and I've just eaten a power pellet, so in other words, I'm gonna eat them ghosts. The main thing is I'm good with people, particular about my work and methodical.
+I'm a person, not a robot, who has worked in multiple industries from hospitality to retail and more recently construction, I've done everything from cleaning fish gut off the floor to hitting my hand with a hammer on accident obviously, and I'm now looking to the future and becoming a full-stack Ruby developer. I'm a visual thinker and right now I'm seeing the world as a game of Pac-Man and I've just eaten a power pellet, so in other words, I'm gonna eat them ghosts. The main thing is I'm good with people, particular about my work and methodical.
 #####
 I liked moving around to keep things interesting which is why I was drawn to software development there's always something new, plenty to learn and more than enough chances to keep my skills sharp, there's also a large active community which makes getting help a lot easier. I've done bits and pieces in HTML, CSS, and JavaScript, I've also used a MEN(Mongo, Express and Node) stack in a project I'm still currently working on, and I'm also learning ruby at the moment.
 #####
