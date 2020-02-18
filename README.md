@@ -3,7 +3,7 @@
 ## Kealan Heena
 I'm a person, not a robot, who has worked in multiple industries from hospitality to retail and more recently construction, I've done everything from cleaning fish gut off the floor to hitting my hand with a hammer on accident obviously, and I'm now looking to the future and searching for a job in Software Developer. I'm a visual thinker and right now I'm seeing the world as a game of Pac-Man and I've just eaten a power pellet, so in other words, I'm gonna eat them ghosts. The main thing is I'm good with people, particular about my work and methodical.
 #####
-I liked moving around to keep things interesting which is why I was drawn to software development there's always something new, plenty to learn and more than enough chances to keep my skills sharp, there's also a large active community which makes getting help a lot easier. I've worked with Ruby on Rails and JavaScript using a MEN(Mongo, Express and Node).
+I liked moving around to keep things interesting which is why I was drawn to software development there's always something new, plenty to learn and more than enough chances to keep my skills sharp, there's also a large active community which makes getting help a lot easier. I've worked with Ruby on Rails and JavaScript using a MEN(Mongo, Express and Node.js).
 #####
 I've worked in a lot of different places so I'm sort of a jack of all trades, and now hopefully, I'm a master of one. 
  
@@ -29,15 +29,17 @@ In a lot of the places that I worked in being teamwork played a key role in my j
 #### What is Makers Academy
 Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
 #### Makers Academy (14/Oct/2019 to 17/Feb/2020)
-- Check out my blog here => https://dev.to/kealanheena
+- Check out my blog at: https://dev.to/kealanheena
 ##### Skills:
 - HTML, CSS
 - Ruby on Rails
 - Sinatra
 - Capybara
 - RSpec
-- JavaScript, Mongo, Express, Node 
-  - My current project => https://blooming-cliffs-37846.herokuapp.com/
+- JavaScript 
+- Mongo
+- Express
+- Node 
 - Jasmine
 - Unreal Engine 4
 
@@ -46,6 +48,14 @@ I decided not to jump on the college train main because I wanted to try differen
 
 #### Other courses
 I've also done online courses on Udemy covering HTML, CSS and JavaScript, I've also used Bootstrap and Semantic UI to add styling and JavaScript functions, used DOM manipulation to manipulate styles, I've used a NoSQL database, Mongo, and frameworks like Express and Node.js.
+
+## Projects
+
+| Name | Link | GitHub | Stack |
+|---|---|---| --- |
+| YelpCamp | https://blooming-cliffs-37846.herokuapp.com/ | N/A | MEN (Mongo, Express & Node.js) |
+| Acebook | http://acebook-irrelevant-pests.herokuapp.com/ | https://github.com/ffgi-es/acebook_irrelevant_pests | Ruby on Rails |
+
 
 ## Experience
 
