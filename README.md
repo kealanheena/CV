@@ -5,7 +5,7 @@
   <img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="50" width="50"></a>
 
   <a href="https://dev.to/kealanheena">
-  <img src="./images/devto-logo.png" alt="medium" hspace="50" height="42" width="42"></a>
+  <img src="./images/devto-logo.png" alt="medium" hspace="50" height="50" width="50"></a>
 </p>
 
 <div align="center">
@@ -65,7 +65,7 @@ I've also done online courses on Udemy covering HTML, CSS and JavaScript, I've a
 ## Projects
 
 | Name | Description | Link | GitHub | Stack |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | YelpCamp | A full-stack application where you can authenticate users, add, edit, view and delete campsites and comments on a campsite, and make a reservation. | https://blooming-cliffs-37846.herokuapp.com/ | N/A | MEN (Mongo, Express & Node.js) |
 | Acebook | A full-stack application based on an obscure company known as facebook. You can authenticate users, add, edit, view and delete posts, comments and photos. You can add a profile picture and there is also a live chat. | http://acebook-irrelevant-pests.herokuapp.com/ | https://github.com/ffgi-es/acebook_irrelevant_pests | Ruby on Rails |
 | Studio Ghibli Films | A full-stack application where you can view a list of all of Studio Ghibli's movies using an API and reorganise them in order of release date, title name or rating | Not Hosted | https://github.com/kealanheena/studio_ghibli_api | Ruby |
