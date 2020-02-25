@@ -1,6 +1,20 @@
-# Curriculum Vitae
-| [About Me](#kealan-heena) | [Skills](#skills)  |  [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) |
-## Kealan Heena
+<h1 align="center">Kealan Heena - Software Engineer</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kealanheena">
+  <img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+  <a href="https://dev.to/kealanheena">
+  <img src="./images/devto-logo.png" alt="medium" hspace="50" height="42" width="42"></a>
+</p>
+
+<div align="center">
+  
+[Overview](#overview) | [Skills](#skills)  |  [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+
+</div>
+
+## Overview
 I'm a person, not a robot, who has worked in multiple industries from hospitality to retail and more recently construction, I've done everything from cleaning fish gut off the floor to hitting my hand with a hammer on accident obviously, and I'm now looking to the future and searching for a job in Software Developer. I'm a visual thinker and right now I'm seeing the world as a game of Pac-Man and I've just eaten a power pellet, so in other words, I'm gonna eat them ghosts. The main thing is I'm good with people, particular about my work and methodical.
 #####
 I liked moving around to keep things interesting which is why I was drawn to software development there's always something new, plenty to learn and more than enough chances to keep my skills sharp, there's also a large active community which makes getting help a lot easier. I've worked with Ruby on Rails and JavaScript using a MEN(Mongo, Express and Node.js).
@@ -29,7 +43,7 @@ In a lot of the places that I worked in being teamwork played a key role in my j
 #### What is Makers Academy
 Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
 #### Makers Academy (14/Oct/2019 to 17/Feb/2020)
-- Check out my blog at: https://dev.to/kealanheena
+
 ##### Skills:
 - HTML, CSS
 - Ruby on Rails
@@ -72,4 +86,4 @@ I got a chance to try something new here and to build on my organisational skill
 ## Hobbies
 - Jiu-Jitsu - It's enjoyable keeps you fit and teaches respect which is a good attitude to have to keep you out of trouble and if that doesn't work you can use it as a last resort.
 - Puzzle/Strategy Games - They're frustrating at time although that makes them all the more rewarding when you solve them plus it's a great thing to do with friends.
-- Blogging - I knew it'd be challenging(mainly due to the fact my writing skills aren't great), I found it strangly relaxing and enjoy working on it, plus it give me a chance to improve my writing skill.
+- Blogging(https://dev.to/kealanheena) - I knew it'd be challenging(mainly due to the fact my writing skills aren't great), I found it strangly relaxing and enjoy working on it, plus it give me a chance to improve my writing skill.
