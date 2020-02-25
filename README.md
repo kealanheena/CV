@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kealanheena">
-  <img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+  <img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="50" width="50"></a>
 
   <a href="https://dev.to/kealanheena">
   <img src="./images/devto-logo.png" alt="medium" hspace="50" height="42" width="42"></a>
@@ -40,22 +40,21 @@ While working in retail in a shop called "Dunnes Store" I was tasked with managi
 In a lot of the places that I worked in being teamwork played a key role in my job. For example, I was working in a team when I worked in a place called Sarah's Restaurant, which was a restaurant and takeaway. I was usually put in a team when managing the takeaway with the help of my colleagues. I was given the reigns most of the time, but we had to decide how we'd do it together. Who would take the order, who would cook the food and decide which foods were to be cooked first to ensure everything was delivered hot. We didn't have many angry customers which meant we must’ve worked well together.
 
 ## Education
-#### What is Makers Academy
-Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
+
 #### Makers Academy (14/Oct/2019 to 17/Feb/2020)
 
-##### Skills:
-- HTML, CSS
-- Ruby on Rails
-- Sinatra
-- Capybara
-- RSpec
-- JavaScript 
-- Mongo
-- Express
-- Node 
-- Jasmine
-- Unreal Engine 4
+#### What is Makers Academy
+Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
+
+
+#### Skills:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| HTML | CSS | Ruby | Rails |
+| Sinatra | Capybara | RSpec | JavaScript |
+| Mongo | Express | Node.js | Jasmine |
+| Unreal Engine 4 | | | |
 
 #### Why no colleges
 I decided not to jump on the college train main because I wanted to try different jobs before settling and college seemed to be setting me on a track that would be difficult to get off, so I got out there and started giving CV's to every place that would take them which got me my first job. Although this place only opened over summer so it was temporary. But it started me on a track of getting experience in a variety of areas, which helped me grow as a person and to understand and respect the people who do these jobs day in day out.
@@ -65,10 +64,11 @@ I've also done online courses on Udemy covering HTML, CSS and JavaScript, I've a
 
 ## Projects
 
-| Name | Link | GitHub | Stack |
-|---|---|---| --- |
-| YelpCamp | https://blooming-cliffs-37846.herokuapp.com/ | N/A | MEN (Mongo, Express & Node.js) |
-| Acebook | http://acebook-irrelevant-pests.herokuapp.com/ | https://github.com/ffgi-es/acebook_irrelevant_pests | Ruby on Rails |
+| Name | Description | Link | GitHub | Stack |
+| --- | --- | --- | --- |
+| YelpCamp | A full-stack application where you can authenticate users, add, edit, view and delete campsites and comments on a campsite, and make a reservation. | https://blooming-cliffs-37846.herokuapp.com/ | N/A | MEN (Mongo, Express & Node.js) |
+| Acebook | A full-stack application based on an obscure company known as facebook. You can authenticate users, add, edit, view and delete posts, comments and photos. You can add a profile picture and there is also a live chat. | http://acebook-irrelevant-pests.herokuapp.com/ | https://github.com/ffgi-es/acebook_irrelevant_pests | Ruby on Rails |
+| Studio Ghibli Films | A full-stack application where you can view a list of all of Studio Ghibli's movies using an API and reorganise them in order of release date, title name or rating | Not Hosted | https://github.com/kealanheena/studio_ghibli_api | Ruby |
 
 
 ## Experience
