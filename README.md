@@ -15,7 +15,7 @@
 </div>
 
 ## Overview
-I'm a person, not a robot, who has worked in multiple industries from hospitality to retail and more recently construction, I've done everything from cleaning fish gut off the floor to hitting my hand with a hammer on accident obviously, and I'm now looking to the future and searching for a job in Software Developer. I'm a visual thinker and right now I'm seeing the world as a game of Pac-Man and I've just eaten a power pellet, so in other words, I'm gonna eat them ghosts. The main thing is I'm good with people, particular about my work and methodical.
+I'm a person, not a robot, who has worked in multiple industries from hospitality to retail and more recently construction, I've done everything from cleaning fish gut off the floor to hitting my hand with a hammer on accident obviously, and I'm now looking to the future and searching for a job in Software Development. I'm a visual thinker and right now I'm seeing the world as a game of Pac-Man and I've just eaten a power pellet, so in other words, I'm gonna eat them ghosts. The main thing is I'm good with people, particular about my work and methodical.
 #####
 I liked moving around to keep things interesting which is why I was drawn to software development there's always something new, plenty to learn and more than enough chances to keep my skills sharp, there's also a large active community which makes getting help a lot easier. I've worked with Ruby on Rails and JavaScript using a MEN(Mongo, Express and Node.js).
 #####
