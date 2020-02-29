@@ -61,11 +61,12 @@ I've also done online courses on Udemy covering HTML, CSS and JavaScript, I've a
 
 ## Projects
 
-| Name | Description | Link | Stack |
+| Name | Description | GitHub | Stack |
 | --- | --- | --- | --- |
-| YelpCamp | A full-stack application where you can authenticate users, add, edit, view and delete campsites and comments on a campsite, and make a reservation. | https://blooming-cliffs-37846.herokuapp.com/ | MEN (Mongo, Express & Node.js) |
-| Acebook Irrelevant Pests | A full-stack application based on an obscure company known as facebook. You can authenticate users, add, edit, view and delete posts, comments and photos. You can add a profile picture and there is also a live chat. | http://acebook-irrelevant-pests.herokuapp.com/ | Ruby on Rails |
-| Studio Ghibli API | A full-stack application where you can view a list of all of Studio Ghibli's movies using an API and reorganise them in order of release date, title name or rating | Not Hosted | Ruby |
+| YelpCamp | A full-stack application where you can authenticate users, add, edit, view and delete campsites and comments on a campsite, and make a reservation. | not on GitHub: https://blooming-cliffs-37846.herokuapp.com/ | MEN (Mongo, Express & Node.js) |
+| Acebook Irrelevant Pests | A full-stack application based on an obscure company known as facebook. You can authenticate users, add, edit, view and delete posts, comments and photos. You can add a profile picture and there is also a live chat. | https://github.com/ffgi-es/acebook_irrelevant_pests | Ruby on Rails |
+| Studio Ghibli API | A full-stack application where you can view a list of all of Studio Ghibli's movies using an API and reorganise them in order of release date, title name or rating | https://github.com/kealanheena/studio_ghibli_api | Ruby |
+| Paladin's Path | An open-world game with different environments with different kinds of enemy. As a palidin you have the power to attack with your sword or with one of your three spells(Fire, Rock and Ice) | https://github.com/BenSheridanEdwards/Makers_Paladins_Path#Specification | Unreal Engine 4|
 
 
 ## Experience
