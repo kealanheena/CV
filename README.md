@@ -50,8 +50,8 @@ Makers Academy is a sort of school that teaches a group of students (cohort) how
 | --- | --- | --- | --- |
 | HTML | CSS | Ruby | Rails |
 | Sinatra | Capybara | RSpec | JavaScript |
-| Mongo | Express | Node.js | Jasmine |
-| Unreal Engine 4 | | | |
+| Mongo | Express | React | Node.js |
+| Jasmine | Unreal Engine 4 | | |
 
 #### Why didn't I go to university?
 I decided not to jump on the college train main because I wanted to try different jobs before settling and college seemed to be setting me on a track that would be difficult to get off, so I got out there and started giving CV's to every place that would take them which got me my first job. Although this place only opened over summer so it was temporary. But it started me on a track of getting experience in a variety of areas, which helped me grow as a person and to understand and respect the people who do these jobs day in day out.
