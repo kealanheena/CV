@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kealanheena">
-  <img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+  <img src="./images/linkedin-logo.png" alt="linkedin" hspace="50" height="50" width="50"></a>
 
   <a href="https://dev.to/kealanheena">
-  <img src="./images/devto-logo.png" alt="medium" hspace="50" height="42" width="42"></a>
+  <img src="./images/devto-logo.png" alt="medium" hspace="50" height="50" width="50"></a>
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 </div>
 
 ## Overview
-I'm a person, not a robot, who has worked in multiple industries from hospitality to retail and more recently construction, I've done everything from cleaning fish gut off the floor to hitting my hand with a hammer on accident obviously, and I'm now looking to the future and searching for a job in Software Developer. I'm a visual thinker and right now I'm seeing the world as a game of Pac-Man and I've just eaten a power pellet, so in other words, I'm gonna eat them ghosts. The main thing is I'm good with people, particular about my work and methodical.
+I'm a person, not a robot, who has worked in multiple industries from hospitality to retail and more recently construction, I've done everything from cleaning fish gut off the floor to hitting my hand with a hammer on accident obviously, and I'm now looking to the future and searching for a job in Software Development. I'm a visual thinker and right now I'm seeing the world as a game of Pac-Man and I've just eaten a power pellet, so in other words, I'm gonna eat them ghosts. The main thing is I'm good with people, particular about my work and methodical.
 #####
 I liked moving around to keep things interesting which is why I was drawn to software development there's always something new, plenty to learn and more than enough chances to keep my skills sharp, there's also a large active community which makes getting help a lot easier. I've worked with Ruby on Rails and JavaScript using a MEN(Mongo, Express and Node.js).
 #####
@@ -40,24 +40,20 @@ While working in retail in a shop called "Dunnes Store" I was tasked with managi
 In a lot of the places that I worked in being teamwork played a key role in my job. For example, I was working in a team when I worked in a place called Sarah's Restaurant, which was a restaurant and takeaway. I was usually put in a team when managing the takeaway with the help of my colleagues. I was given the reigns most of the time, but we had to decide how we'd do it together. Who would take the order, who would cook the food and decide which foods were to be cooked first to ensure everything was delivered hot. We didn't have many angry customers which meant we must’ve worked well together.
 
 ## Education
-#### What is Makers Academy
-Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
+
 #### Makers Academy (14/Oct/2019 to 17/Feb/2020)
 
-##### Skills:
-- HTML, CSS
-- Ruby on Rails
-- Sinatra
-- Capybara
-- RSpec
-- JavaScript 
-- Mongo
-- Express
-- Node 
-- Jasmine
-- Unreal Engine 4
+#### What is Makers Academy
+Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
 
-#### Why no colleges
+| Skills |     |     |     |
+| --- | --- | --- | --- |
+| HTML | CSS | Ruby | Rails |
+| Sinatra | Capybara | RSpec | JavaScript |
+| Mongo | Express | React | Node.js |
+| Jasmine | Unreal Engine 4 | | |
+
+#### Why didn't I go to university?
 I decided not to jump on the college train main because I wanted to try different jobs before settling and college seemed to be setting me on a track that would be difficult to get off, so I got out there and started giving CV's to every place that would take them which got me my first job. Although this place only opened over summer so it was temporary. But it started me on a track of getting experience in a variety of areas, which helped me grow as a person and to understand and respect the people who do these jobs day in day out.
 
 #### Other courses
@@ -65,10 +61,12 @@ I've also done online courses on Udemy covering HTML, CSS and JavaScript, I've a
 
 ## Projects
 
-| Name | Link | GitHub | Stack |
-|---|---|---| --- |
-| YelpCamp | https://blooming-cliffs-37846.herokuapp.com/ | N/A | MEN (Mongo, Express & Node.js) |
-| Acebook | http://acebook-irrelevant-pests.herokuapp.com/ | https://github.com/ffgi-es/acebook_irrelevant_pests | Ruby on Rails |
+| Name | Description | GitHub/Website | Stack |
+| --- | --- | --- | --- |
+| YelpCamp | A full-stack application where you can authenticate users, add, edit, view and delete campsites and comments on a campsite, and make a reservation. | No GitHub<br>[Website](https://blooming-cliffs-37846.herokuapp.com/) | MEN (Mongo, Express & Node.js) |
+| Acebook Irrelevant Pests | A full-stack application based on an obscure company known as facebook. You can authenticate users, add, edit, view and delete posts, comments and photos. You can add a profile picture and there is also a live chat. | [GitHub](https://github.com/ffgi-es/acebook_irrelevant_pests)<br>[Website](https://acebook-irrelevant-pests.herokuapp.com/) | Ruby on Rails |
+| Studio Ghibli API | A full-stack application where you can view a list of all of Studio Ghibli's movies using an API and reorganise them in order of release date, title name or rating | [GitHub](https://github.com/kealanheena/studio_ghibli_api)<br>Not Hosted | Ruby |
+| Paladin's Path | An open-world game with different environments with different kinds of enemy. As a palidin you have the power to attack with your sword or with one of your three spells(Fire, Rock and Ice) | [GitHub](https://github.com/BenSheridanEdwards/Makers_Paladins_Path)<br>Not Hosted | Unreal Engine 4|
 
 
 ## Experience
@@ -87,3 +85,17 @@ I got a chance to try something new here and to build on my organisational skill
 - Jiu-Jitsu - It's enjoyable keeps you fit and teaches respect which is a good attitude to have to keep you out of trouble and if that doesn't work you can use it as a last resort.
 - Puzzle/Strategy Games - They're frustrating at time although that makes them all the more rewarding when you solve them plus it's a great thing to do with friends.
 - Blogging(https://dev.to/kealanheena) - I knew it'd be challenging(mainly due to the fact my writing skills aren't great), I found it strangly relaxing and enjoy working on it, plus it give me a chance to improve my writing skill.
+- Photography - I really enjoy a beautiful view so why not try to capture those views and share them with others plus I like to travel so it's nice to compare different places 
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+">
+  <div style="grid-area: 1 / 1 / 2 / 2;"> <img src="./photography_photos/IMG_0051.JPG" /> </div>
+  <div style="grid-area: 1 / 2 / 2 / 3;"> <img src="./photography_photos/IMG_0056.JPG" /> </div>
+  <div style="grid-area: 1 / 3 / 2 / 4;"> <img src="./photography_photos/IMG_0077.JPG" /> </div>
+  <div style="grid-area: 1 / 4 / 2 / 5;"> <img src="./photography_photos/IMG_0105.JPG" /> </div>
+</div>
