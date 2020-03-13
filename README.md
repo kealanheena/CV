@@ -89,13 +89,13 @@ I got a chance to try something new here and to build on my organisational skill
 
 <div style="
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(5, 1fr);
-  grid-column-gap: 0px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 5px;
   grid-row-gap: 0px;
 ">
-  <div style="grid-area: 1 / 1 / 2 / 2;"> <img src="./photography_photos/IMG_0051.JPG" /> </div>
-  <div style="grid-area: 1 / 2 / 2 / 3;"> <img src="./photography_photos/IMG_0056.JPG" /> </div>
-  <div style="grid-area: 1 / 3 / 2 / 4;"> <img src="./photography_photos/IMG_0077.JPG" /> </div>
-  <div style="grid-area: 1 / 4 / 2 / 5;"> <img src="./photography_photos/IMG_0105.JPG" /> </div>
+  <div style="grid-area: 1 / 1 / 2 / 2; "> <img src="./photography_photos/IMG_0051.JPG" /> </div>
+  <div style="grid-area: 1 / 2 / 2 / 3; "> <img src="./photography_photos/IMG_0056.JPG" /> </div>
+  <div style="grid-area: 1 / 3 / 2 / 4; "> <img src="./photography_photos/IMG_0077.JPG" /> </div>
+  <div style="grid-area: 1 / 4 / 2 / 5; "> <img src="./photography_photos/IMG_0105.JPG" /> </div>
 </div>
