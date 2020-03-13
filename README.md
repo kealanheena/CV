@@ -84,5 +84,18 @@ I got a chance to try something new here and to build on my organisational skill
 ## Hobbies
 - Jiu-Jitsu - It's enjoyable keeps you fit and teaches respect which is a good attitude to have to keep you out of trouble and if that doesn't work you can use it as a last resort.
 - Puzzle/Strategy Games - They're frustrating at time although that makes them all the more rewarding when you solve them plus it's a great thing to do with friends.
-- Photography - I really enjoy a beautiful view so why not try to capture those views and share them with others plus I like to travel so it's nice to compare different places 
 - Blogging(https://dev.to/kealanheena) - I knew it'd be challenging(mainly due to the fact my writing skills aren't great), I found it strangly relaxing and enjoy working on it, plus it give me a chance to improve my writing skill.
+- Photography - I really enjoy a beautiful view so why not try to capture those views and share them with others plus I like to travel so it's nice to compare different places 
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+">
+  <div style="grid-area: 1 / 1 / 2 / 2;"> <img src="./photography_photos/IMG_0051.JPG" /> </div>
+  <div style="grid-area: 1 / 2 / 2 / 3;"> <img src="./photography_photos/IMG_0056.JPG" /> </div>
+  <div style="grid-area: 1 / 3 / 2 / 4;"> <img src="./photography_photos/IMG_0077.JPG" /> </div>
+  <div style="grid-area: 1 / 4 / 2 / 5;"> <img src="./photography_photos/IMG_0105.JPG" /> </div>
+</div>
