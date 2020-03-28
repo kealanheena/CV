@@ -87,7 +87,7 @@ I got a chance to try something new here and to build on my organisational skill
 - Blogging(https://dev.to/kealanheena) - I knew it'd be challenging(mainly due to the fact my writing skills aren't great), I found it strangly relaxing and enjoy working on it, plus it give me a chance to improve my writing skill.
 - Photography - I really enjoy a beautiful view so why not try to capture those views and share them with others plus I like to travel so it's nice to compare different places 
 
-<img src="./photography_photos/IMG_0051.JPG" />
-<img src="./photography_photos/IMG_0056.JPG" />
-<img src="./photography_photos/IMG_0077.JPG" />
-<img src="./photography_photos/IMG_0105.JPG" />
+<img src="./photography_photos/IMG_0051.JPG" style="width:25%;" />
+<img src="./photography_photos/IMG_0056.JPG" style="width:25%;" />
+<img src="./photography_photos/IMG_0077.JPG" style="width:25%;" />
+<img src="./photography_photos/IMG_0105.JPG" style="width:25%;" />
