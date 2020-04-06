@@ -46,6 +46,8 @@ In a lot of the places that I worked in being teamwork played a key role in my j
 
 #### Makers Academy (14/Oct/2019 to 17/Feb/2020)
 
+<a href="">Makers Curriculum</a>
+
 #### What is Makers Academy
 Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
 
