@@ -13,7 +13,7 @@
 
 <div align="center">
   
-[Overview](#overview) | [Skills](#skills)  |  [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+[Overview](#overview) | [Skills](#skills)  |  [Education](#education) | [Projects](#projects) | [Experience](#experience) | [Hobbies](#hobbies)
 
 </div>
 
@@ -66,10 +66,11 @@ I've also done online courses on Udemy covering HTML, CSS and JavaScript, I've a
 
 | Name | Description | GitHub/Website | Stack |
 | --- | --- | --- | --- |
-| YelpCamp | A full-stack application where you can authenticate users, add, edit, view and delete campsites and comments on a campsite, and make a reservation. | No GitHub<br>[Website](https://blooming-cliffs-37846.herokuapp.com/) | MEN (Mongo, Express & Node.js) |
-| Acebook Irrelevant Pests | A full-stack application based on an obscure company known as facebook. You can authenticate users, add, edit, view and delete posts, comments and photos. You can add a profile picture and there is also a live chat. | [GitHub](https://github.com/ffgi-es/acebook_irrelevant_pests)<br>[Website](https://acebook-irrelevant-pests.herokuapp.com/) | Ruby on Rails |
-| Studio Ghibli API | A full-stack application where you can view a list of all of Studio Ghibli's movies using an API and reorganise them in order of release date, title name or rating | [GitHub](https://github.com/kealanheena/studio_ghibli_api)<br>Not Hosted | Ruby |
-| Paladin's Path | An open-world game with different environments with different kinds of enemy. As a palidin you have the power to attack with your sword or with one of your three spells(Fire, Rock and Ice) | [GitHub](https://github.com/BenSheridanEdwards/Makers_Paladins_Path)<br>Not Hosted | Unreal Engine 4|
+| [YelpCamp](https://blooming-cliffs-37846.herokuapp.com/) | A full-stack application where you can authenticate users, add, edit, view and delete campsites and comments on a campsite, and make a reservation. | Not on GitHub | MEN (Mongo, Express & Node.js) |
+| [Acebook Irrelevant Pests](https://acebook-irrelevant-pests.herokuapp.com/) | A full-stack application based on an obscure company known as facebook. You can authenticate users, add, edit, view and delete posts, comments and photos. You can add a profile picture and there is also a live chat. | [GitHub](https://github.com/ffgi-es/acebook_irrelevant_pests) | Ruby on Rails |
+| Paladin's Path | An open-world game with different environments with different kinds of enemy. As a palidin you have the power to attack with your sword or with one of your three spells(Fire, Rock and Ice) | [GitHub](https://github.com/BenSheridanEdwards/Makers_Paladins_Path) | Unreal Engine 4|
+| Studio Ghibli API | A full-stack application where you can view a list of all of Studio Ghibli's movies using an API and reorganise them in order of release date, title name or rating | [GitHub](https://github.com/kealanheena/studio_ghibli_api) | Ruby |
+| Glucometer | A TDD'd react app that allows you to calculate your bolus (amount of insulin) based on you insulin ratio and the amount of carbs you're eating | [GitHub](https://github.com/kealanheena/glucometer) | React Node.js |
 
 
 ## Experience
@@ -90,15 +91,17 @@ I got a chance to try something new here and to build on my organisational skill
 - Blogging(https://dev.to/kealanheena) - I knew it'd be challenging(mainly due to the fact my writing skills aren't great), I found it strangly relaxing and enjoy working on it, plus it give me a chance to improve my writing skill.
 - Photography - I really enjoy a beautiful view so why not try to capture those views and share them with others plus I like to travel so it's nice to compare different places 
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(5, 1fr);
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
-">
-  <div style="grid-area: 1 / 1 / 2 / 2;"> <img src="./photography_photos/IMG_0051.JPG" /> </div>
-  <div style="grid-area: 1 / 2 / 2 / 3;"> <img src="./photography_photos/IMG_0056.JPG" /> </div>
-  <div style="grid-area: 1 / 3 / 2 / 4;"> <img src="./photography_photos/IMG_0077.JPG" /> </div>
-  <div style="grid-area: 1 / 4 / 2 / 5;"> <img src="./photography_photos/IMG_0105.JPG" /> </div>
-</div>
+<p align="center">
+  <a href="#">
+    <img src="./photography_photos/IMG_0051.JPG" width="20%" />
+  </a>
+  <a href="#">
+    <img src="./photography_photos/IMG_0056.JPG" width="20%" />
+  </a>
+  <a href="#">
+    <img src="./photography_photos/IMG_0077.JPG" width="20%" />
+  </a>
+  <a href="#">
+    <img src="./photography_photos/IMG_0105.JPG" width="20%" />
+  </a>
+</p>
