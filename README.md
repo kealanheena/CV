@@ -49,25 +49,29 @@ In a lot of the places that I worked in being teamwork played a key role in my j
 #### What is Makers Academy
 Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
 
-#### [Makers Curriculum](https://github.com/kealanheena/makersPortfolio/blob/master/README.md)
+| [Makers Curriculum](https://github.com/kealanheena/makersPortfolio/blob/master/README.md) |
+| --- |
+| Week 1 - Boris Bikes & Airport |
+| Week 2 - Oystercard & Takeaway |
+| Week 3 - Battle & Rock, Paper, Scissors |
+| Week 4 - Bookmark Manager & Chitter |
+| Week 5 - Thermostat & Bowling |
+| Week 6 - MakersBnB (Group Project) |
+| Week 7 - Notebook |
+| Week 8 & 9 - Acebook (Group Project) |
+| Week 10 - Technical Testing Week |
+| Week 11 & 12 - Paladin's Path (Final Project) |
 
-Week 1 - Boris Bikes & Airport <br>
-Week 2 - Oystercard & Takeaway<br>
-Week 3 - Battle & Rock, Paper, Scissors<br>
-Week 4 - Bookmark Manager & Chitter<br>
-Week 5 - Thermostat & Bowling<br>
-Week 6 - MakersBnB (Group Project)<br>
-Week 7 - Notebook<br>
-Week 8 & 9 - Acebook (Group Project)<br>
-Week 10 - Technical Testing Week<br>
-Week 11 & 12 - Paladin's Path (Final Project)<br>
-
-| Skills |     |     |     |
-| --- | --- | --- | --- |
-| HTML | CSS | Ruby | Rails |
-| Sinatra | Capybara | RSpec | JavaScript |
-| Mongo | Express | React | Node.js |
-| Jasmine | Unreal Engine 4 | | |
+### Skill
+|     |     |
+| --- | --- |
+| HTML | CSS | 
+| Ruby | Rails |
+| Sinatra | Capybara |
+| RSpec | JavaScript |
+| Mongo | Express | 
+| React | Node.js |
+| Jasmine | Unreal Engine 4 |
 
 #### Why didn't I go to university?
 I decided not to jump on the college train main because I wanted to try different jobs before settling and college seemed to be setting me on a track that would be difficult to get off, so I got out there and started giving CV's to every place that would take them which got me my first job. Although this place only opened over summer so it was temporary. But it started me on a track of getting experience in a variety of areas, which helped me grow as a person and to understand and respect the people who do these jobs day in day out.
