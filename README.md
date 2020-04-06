@@ -46,10 +46,21 @@ In a lot of the places that I worked in being teamwork played a key role in my j
 
 #### Makers Academy (14/Oct/2019 to 17/Feb/2020)
 
-<a href="">Makers Curriculum</a>
-
 #### What is Makers Academy
 Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
+
+#### [Makers Curriculum](https://github.com/kealanheena/makersPortfolio/blob/master/README.md)
+
+Week 1 - Boris Bikes & Airport <br>
+Week 2 - Oystercard & Takeaway<br>
+Week 3 - Battle & Rock, Paper, Scissors<br>
+Week 4 - Bookmark Manager & Chitter<br>
+Week 5 - Thermostat & Bowling<br>
+Week 6 - MakersBnB (Group Project)<br>
+Week 7 - Notebook<br>
+Week 8 & 9 - Acebook (Group Project)<br>
+Week 10 - Technical Testing Week<br>
+Week 11 & 12 - Paladin's Path (Final Project)<br>
 
 | Skills |     |     |     |
 | --- | --- | --- | --- |
